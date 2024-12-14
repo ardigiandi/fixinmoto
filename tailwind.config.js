@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       fontFamily: {
         'manrope': ['Manrope', 'sans-serif']
+      },
+      rotate: {
+        '-10': '-10deg',
       }
     },
   },
